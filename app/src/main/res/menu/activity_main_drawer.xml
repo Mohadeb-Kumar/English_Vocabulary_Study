@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_library_books_24"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_checkup"
+            android:icon="@drawable/ic_baseline_system_update_24"
+            android:title="@string/menu_checkup" />
+    </group>
+
+    <item android:title="Communicate:">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/menu_share" />
+
+            <item
+                android:id="@+id/nav_other"
+                android:icon="@drawable/ic_baseline_apps_24"
+                android:title="@string/menu_other" />
+
+        </menu>
+
+
+    </item>
+</menu>

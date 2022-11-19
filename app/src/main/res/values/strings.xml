@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">English Vocabulary Study</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">English Vocabulary Study</string>
+    <string name="nav_header_subtitle">By Mohadeb Kumar (CSE)</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="action_policy">Privacy Policy</string>
+    <string name="action_about">About Us</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="action_policy_title">Privacy Policy</string>
+    <string name="action_about_title">About Us</string>
+    <string name="action_vocabulary_study_title">Vocabulary Study</string>
+
+
+    <string name="menu_home">English Vocabulary</string>
+    <string name="menu_gallery">Vocabulary Quiz</string>
+    <string name="menu_checkup">Check Update</string>
+
+    <string name="menu_share">Share</string>
+    <string name="menu_other">Other Apps</string>
+
+
+    <string name="action_syn_antonym_test_title">Syn/ Antonym Test</string>
+    <string name="action_spell_mistake_test_title">Spelling Mistake Test</string>
+    <string name="action_idioms_phrases_test_title">Idioms/ Phrases Test</string>
+    <string name="action_analogy_test_title">Analogy Test</string>
+    <string name="action_word_substitution_test_title">Word Substitution Test</string>
+    <string name="action_combine_test_title">Combine MCQ Test</string>
+
+</resources>
