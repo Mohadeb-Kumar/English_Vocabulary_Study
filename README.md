@@ -1,2 +1,3 @@
 # English_Vocabulary_Study
  
+“ENGLISH VOCABULARY STUDY” is an android-based mobile application (apk). The main objectives of this project are learning English vocabularies and testing user’s knowledge in English vocabulary by Quiz test. This project is attempted to provide all vocabulary categories such as Synonym & Antonym, Spelling Mistake, Analogy, Idioms & Phrases and One Word Substitution with proper Bengali meaning. Again, after each quiz, the user will see the final score and have the ability to go through the quiz result analysis to see questions that wrong and correct answers. As it is an android-based application and available for the Smartphone. So, user can easily study of English vocabularies anywhere by installing this application in android device.
